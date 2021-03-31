@@ -31,4 +31,4 @@ async def nuke(ctx, amount = 900):
     await ctx.send("Channel Nuked!")
 
     
-client.run('ODI2NjA2OTU0NTYyMDYwMzE4.YGO7tw.AM33L5m66i4sPLO_MLvKGUSmtps')
+client.run('ODI2NjA2OTU0NTYyMDYwMzE4.YGO7tw.Qh5lKF2tIIfHJS6h_5DAUztuyqg')
