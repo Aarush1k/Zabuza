@@ -29,3 +29,6 @@ async def ping(ctx):
 async def nuke(ctx, amount = 900):
     await ctx.channel.purge(limit=amount)
     await ctx.send("Channel Nuked!")
+
+    
+client.run('ODI2NjA2OTU0NTYyMDYwMzE4.YGO7tw.AM33L5m66i4sPLO_MLvKGUSmtps')
